@@ -6,7 +6,6 @@ I am a recent graduate of computer science from the Democritus University of Thr
 
 - [Budget Planning]([link-to-repository](https://github.com/PanosPapalas/Budget-Planer)) - A brief description of the project and what you're working on
 - further projects to be added soon.
-- 
 <!--
 **PanosPapalas/PanosPapalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
