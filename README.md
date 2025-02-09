@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there 👋, I'm Panagiotis K. Papalas.
 
+I am a recent graduate of computer science from the Democritus University of Thrace. My most used programming languages are as follows Java, C++, Python, HTML, CSS and MYSQL. I like to make different applications such as an app to manage your finances and an image blurring with ROIS. 
+
+## 🌱 Current Projects
+
+- [Budget Planning]([link-to-repository](https://github.com/PanosPapalas/Budget-Planer)) - A brief description of the project and what you're working on
+- further projects to be added soon.
+- 
 <!--
 **PanosPapalas/PanosPapalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
